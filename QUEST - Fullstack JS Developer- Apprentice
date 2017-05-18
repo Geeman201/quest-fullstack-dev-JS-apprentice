@@ -15,19 +15,19 @@ QUEST - Fullstack (JS) developer in 2017 (Node / React Flavour)
  - IDE - WebStorm
    - Includes setting up JS tools in IDE
  - JavaScript programming/scripting
-   -  - JS basics: https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.pdf
+   - JS basics: https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.pdf
    - ALSO https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27
    - Also check out Codecademy.com (Use for reference)
  - HTML & CSS & DOM Manipulation in JavaScript
-   -  - HTML basics: DOM objects, https://www.w3schools.com/html/html_basic.asp
-      - CSS basics: Understanding of CSS, Advantages of CSS - http://www.tutorialspoint.com/css/css_tutorial.pdf
- - How JavaScript works  - Event Loop, Call stack (V8), Callback queue and APIs (WebAPIs - asynchronous behaviour)
+   - HTML basics: DOM objects, https://www.w3schools.com/html/html_basic.asp
+   - CSS basics: Understanding of CSS, Advantages of CSS - http://www.tutorialspoint.com/css/css_tutorial.pdf
+ - How JavaScript works
+   - Event Loop, Call stack (V8), Callback queue and APIs (WebAPIs - asynchronous behaviour)
    - ^GOOD. FITZ WILL HAVE A LIST TO CHECK THIS AGAINST.
- - Difference between Client and Server side execution of the code (Node.js and Node APIs instead of WebAPIs)
+   - Mention difference between Client and Server side execution of the code (Node.js and Node APIs instead of WebAPIs)
  - Introduction to JS Library - JQuery
- - Introduction to JS Library - React JS
  - Introduction to CSS Preprocessor - Sass
- - INTRODUCTION TO CSS Library - BOOTSTRAP
+ - INTRODUCTION TO CSS Library - Bootstrap
  - CI - Jenkins 2
  - BUILD AND PACKAGING TOOLS: Grunt, npm, yarn, webpack, (bower(?))
 
