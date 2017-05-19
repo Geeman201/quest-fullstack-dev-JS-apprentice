@@ -4,8 +4,9 @@ QUEST - Fullstack (JS) developer in 2017 (Node / React Flavour)
  - SCM: Git (inc. Gitflow)
  - Networking: HTTP/HTTPS protocols, and Web Server basics
  - *nix Operating systems (basic), terminal usage (basic), and vi (basic)
- - OOAD - class diagrams, system sequence diagrams, state-transition diagrams
- - Patterns: MVC and Singleton
+ - Object structure & construction in JavaScript (Prototypal inheritance, delegation)
+ - Introduction to imperative vs declarative programming
+ - Patterns: MVC vs Unidirectional data flow
  - Auth. and Auth. and basic Security
  - Principles: DRY, SOLID, YAGNI, KISS etc
  - Scrum (Team Member)
@@ -14,17 +15,26 @@ QUEST - Fullstack (JS) developer in 2017 (Node / React Flavour)
 * Apprentice (Specific)
  - IDE - WebStorm
    - Includes setting up JS tools in IDE
- - JavaScript programming/scripting
+ - Introduction to JavaScript programming/scripting
    - JS basics: https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.pdf
    - ALSO https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27
    - Also check out Codecademy.com (Use for reference)
- - HTML & CSS & DOM Manipulation in JavaScript
+   - Ensure things like parsing and combining different types are covered thoroughly
+   - Pure functions
+   - High order functions (map, reduce, filter)
+ - HTML & CSS in JavaScript
    - HTML basics: DOM objects, https://www.w3schools.com/html/html_basic.asp
    - CSS basics: Understanding of CSS, Advantages of CSS - http://www.tutorialspoint.com/css/css_tutorial.pdf
+   - Browser Developer tools
  - How JavaScript works
    - Event Loop, Call stack (V8), Callback queue and APIs (WebAPIs - asynchronous behaviour)
    - ^GOOD. FITZ WILL HAVE A LIST TO CHECK THIS AGAINST.
    - Mention difference between Client and Server side execution of the code (Node.js and Node APIs instead of WebAPIs)
+ - Further JavaScript programming/scripting
+   - HTML APIs (DOM Manipulationg) and their support in browsers
+   - Recap imperative vs declarative programming (in JavaScript)
+   - Callbacks & Promises
+ - Introduction to UI & UX Design
  - Introduction to JS Library - JQuery
  - Introduction to CSS Preprocessor - Sass
  - INTRODUCTION TO CSS Library - Bootstrap
