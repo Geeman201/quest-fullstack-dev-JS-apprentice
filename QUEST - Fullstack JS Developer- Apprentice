@@ -22,7 +22,7 @@ QUEST - Fullstack (JS) developer in 2017 (Node / React Flavour)
    - Ensure things like parsing and combining different types are covered thoroughly
    - Pure functions
    - High order functions (map, reduce, filter)
- - HTML & CSS & DOM Manipulation in JavaScript
+ - HTML & CSS in JavaScript
    - HTML basics: DOM objects, https://www.w3schools.com/html/html_basic.asp
    - CSS basics: Understanding of CSS, Advantages of CSS - http://www.tutorialspoint.com/css/css_tutorial.pdf
    - Browser Developer tools
