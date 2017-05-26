@@ -21,6 +21,6 @@
  - [Introduction to UI & UX Design](https://github.com/jigna-shah/skill-Introduction-to-UI-UX-Design-JS-apprentice-dev)
  - [Introduction to JS Library - JQuery](https://github.com/Harmelodic/skill-intro-to-jquery-apprentice-dev)
  - [Introduction to CSS Preprocessor - Sass](https://github.com/jigna-shah/skill-introduction-to-CSS-processor-SaaS-apprentice-dev)
- - [INTRODUCTION TO CSS Library - Bootstrap](https://github.com/Harmelodic/skill-intro-to-bootstrap-apprentice-dev)
+ - [Introduction to CSS Library - Bootstrap](https://github.com/Harmelodic/skill-intro-to-bootstrap-apprentice-dev)
  - [CI - Jenkins 2](https://github.com/andrewharmellaw/skill-ci-jenkins2-apprentice-dev)
- - [BUILD AND PACKAGING TOOLS: Grunt, npm, yarn, webpack](https://github.com/Harmelodic/skill-build-manage-package-js-projects-apprentice-dev)
+ - [Building and Packaging Tools: grunt, npm, yarn, webpack](https://github.com/Harmelodic/skill-build-manage-package-js-projects-apprentice-dev)
