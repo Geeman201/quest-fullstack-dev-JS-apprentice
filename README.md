@@ -24,9 +24,3 @@
  - [INTRODUCTION TO CSS Library - Bootstrap](https://github.com/Harmelodic/skill-intro-to-bootstrap-apprentice-dev)
  - [CI - Jenkins 2](https://github.com/andrewharmellaw/skill-ci-jenkins2-apprentice-dev)
  - [BUILD AND PACKAGING TOOLS: Grunt, npm, yarn, webpack](https://github.com/Harmelodic/skill-build-manage-package-js-projects-apprentice-dev)
-
-## META-Skills
- * Learning how to learn
- * Learning how to research
- * learning how to problem solve - ITERATION
- * learning how to harness creativity - ITERATION
