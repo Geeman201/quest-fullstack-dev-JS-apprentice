@@ -17,6 +17,7 @@
  - [How JavaScript works](https://github.com/Harmelodic/skill-how-javascript-works-apprentice-dev)
  - [Object structure & construction in JavaScript - Prototypal inheritance, delegation](https://github.com/jigna-shah/skill-object-structure-in-javascript-apprentice-dev)
  - [Further JavaScript programming/scripting](https://github.com/jigna-shah/skill-javascript-programming-and-scripting-apprentice-dev)
+ - [Introduction to Browsers Developer Tools](https://github.com/jigna-shah/skill-Introduction-to-browser-developer-tools-JS-apprentice-dev)
  - [Application architecture - Javascript](https://github.com/Harmelodic/skill-application-architecture-js-apprentice-dev)
  - [Introduction to UI & UX Design](https://github.com/jigna-shah/skill-Introduction-to-UI-UX-Design-JS-apprentice-dev)
  - [Introduction to JS Library - JQuery](https://github.com/Harmelodic/skill-intro-to-jquery-apprentice-dev)
